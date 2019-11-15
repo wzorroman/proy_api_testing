@@ -20,6 +20,7 @@ Vagrantfile
 deploy/
 logs/*
 .python-version
+__pycache__
 
 # SonarQube
 .scannerwork/*
