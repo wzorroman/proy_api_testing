@@ -21,6 +21,7 @@ deploy/
 logs/*
 .python-version
 __pycache__
+.sqlite3
 
 # SonarQube
 .scannerwork/*
